@@ -1,0 +1,96 @@
+/*  start login */
+.view_login {
+    background: rgba(196,196, 196, 0.1) !important;
+    z-index: -1;
+}
+
+button {
+    background-color:  #6056D7 !important;
+    color: white !important;
+    border-radius: 10px !important;
+;
+}
+
+
+
+
+
+
+
+/* end login  */
+
+
+
+
+
+/* start contact  */
+.contactlayout textarea, input[type="text"] ,  input[type="email"] {
+    
+background: rgba(232,232,232,0.5);
+border: 2px solid #000000;
+border-radius: 10px;
+}
+
+
+/* end contact   */
+
+
+
+
+
+/* start  about  */
+.aboutlayout {
+    background: rgb(250,250,250);
+}
+.aboutlayout img{
+ 
+    height: 100%vh !important;
+  
+}
+
+.about_card {
+    border-bottom: 2px solid #6056D7;
+    border-top: 2px solid #6056D7;
+    border-right: 2px solid #6056D7;
+    border-radius: 5px;
+    z-index: 1;
+}
+
+
+
+/* end about  */
+
+/* start service  */
+
+.servicelayout {
+background: rgb(229,229,229) !important;
+
+width: 100% !important;
+}
+
+/* end service */
+
+/* register start */
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.bg-purple {
+  background-color: #6056D7 !important;
+}
+.bg-purple:hover {
+  background-color: #6056D7 !important;
+}
+
+.passWrapper {
+  position: relative;
+  /* margin-bottom: 14px; */
+}
+
+#eyeIcon {
+  position: absolute;
+  top: 55% !important;
+  right: 2% !important;
+}

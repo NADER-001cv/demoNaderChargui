@@ -1,0 +1,16 @@
+{
+    "debug.allowBreakpointsEverywhere": true,
+    "files.autoGuessEncoding": true,
+    "files.exclude": {
+        "**/.vscode": true,
+        "compile_commands.json": true,
+        "*.hrccproj": true,
+        "*.sln": true,
+        "*.suo": true
+    },
+    "bracketPairColorizer.rulerPosition": "Right",
+    "browserRefresh.focus": true,
+    "C_Cpp.autoAddFileAssociations": false,
+    "eslint.codeActionsOnSave.mode": "problems",
+    "eslint.format.enable": true
+}

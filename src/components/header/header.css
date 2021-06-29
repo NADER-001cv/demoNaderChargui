@@ -1,0 +1,14 @@
+.header {
+    background-color: #C6E1FF;
+    height: 640px;
+  
+}
+.header .para_start > div {
+    font-size: 64px !important;
+    
+    line-height: 0.7em !important;
+}
+.header .para_end {
+    color:  #655BD6;
+    
+}

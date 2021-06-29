@@ -1,0 +1,13 @@
+.logo {
+    width: 56px;
+    height: 56px;
+}
+
+.login {
+    background-color: rgb(107,97,218);
+    color: #fff !important;
+    /* font-size: 26px !important; */
+}
+.navbar {
+    background: white !important;
+}
