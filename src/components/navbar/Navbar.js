@@ -23,6 +23,9 @@ function Navbar() {
         </button>
         <div class="collapse  navbar-collapse" id="navbarNav">
           <ul class="navbar-nav  ms-auto fs-5">
+             <li class="nav-item">
+                      <Link to="/"   className="nav-link  p-2"  > Home</Link> 
+            </li>
             <li class="nav-item">
                       <Link to="/ourservice"   className="nav-link  p-2"  >   Our Service</Link> 
             </li>
