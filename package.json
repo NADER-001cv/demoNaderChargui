@@ -1,4 +1,5 @@
 {
+  "homepage": "https://NADER-001cv.github.io/demoNaderChargui/",
   "name": "mytestfornader",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +9,7 @@
     "@testing-library/user-event": "^12.8.3",
     "antd": "^4.16.5",
     "bootstrap": "^5.0.2",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-feather": "^2.0.9",
@@ -16,6 +18,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages  -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
